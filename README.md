@@ -15,6 +15,17 @@ Created using Unity 2022.3.45f
  * [Broken Console Font](https://fontesk.com/broken-console-font/)
  * [Background Music](https://tallbeard.itch.io/music-loop-bundle)
 
+## Juicy Features
+* Used squeeze and stretch on the ball
+* Added a comet trail to the ball
+* Animated bricks when they enter and when they are hit
+* Shake the screen when ball hits somthing
+* Added sound effects and music
+* Added particles when the paddle is hit
+* Added eyes that track the ball
+* Add a background to the game
+* Used shaders to make and animate background
+* Changed and styled text
 
 ## Future Development
 

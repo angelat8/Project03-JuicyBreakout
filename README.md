@@ -18,7 +18,9 @@ Created using Unity 2022.3.45f
 ## Juicy Features
 * Used squeeze and stretch on the ball
 * Added a comet trail to the ball
-* Animated bricks when they enter and when they are hit
+* Animated bricks when they enter screen and when they are hit
+* Paddle and ball colors flash when hit
+* Changed bricks' colors
 * Shake the screen when ball hits somthing
 * Added sound effects and music
 * Added particles when the paddle is hit
